@@ -1,4 +1,4 @@
-# Impact of Environmental Factors on Public Health : Air, Water and Sanitation
+# EnviroHealth ML: Predicting Life Expectancy from Environmental Factors
 
 Description : Machine Learning Project
 Impact :
